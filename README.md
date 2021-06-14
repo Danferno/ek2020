@@ -1,2 +1,2 @@
 # Lopende score
-graphs/runningScore.png
+![image tooltip here](graphs/runningScore.png)
