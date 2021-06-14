@@ -1,2 +1,2 @@
 # Lopende score
-![running score](graphs/runningScore.svg)
+![running score](graphs/runningScore.png)
