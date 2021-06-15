@@ -1,5 +1,5 @@
 # Tussenstand
 ![running score](graphs/runningScore.png)
 
-# Volgende match
+# Volgende wedstrijd
 ![next game](graphs/nextGame.png)
