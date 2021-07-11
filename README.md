@@ -3,3 +3,6 @@
 
 # Volgende wedstrijd
 ![next game](graphs/nextGame.png)
+
+# Score verloop
+![next game](graphs/runningScoreFull.png)
